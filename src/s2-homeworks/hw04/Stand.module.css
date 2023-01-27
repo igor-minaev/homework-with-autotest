@@ -11,6 +11,7 @@
 }
 
 .buttons {
+    width: 176px;
     display: flex;
     flex-direction: column;
     gap: 24px;
