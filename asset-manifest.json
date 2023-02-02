@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/homework-with-autotest/static/css/main.41736c1c.css",
-    "main.js": "/homework-with-autotest/static/js/main.f90d74fc.js",
+    "main.css": "/homework-with-autotest/static/css/main.a62feda8.css",
+    "main.js": "/homework-with-autotest/static/js/main.2cfc64fb.js",
     "static/js/787.66cb4309.chunk.js": "/homework-with-autotest/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/homework-with-autotest/static/media/avatar.d947cb9d0d13765666b6.png",
+    "static/media/404.svg": "/homework-with-autotest/static/media/404.9ec31c0ba8d95b0480272e46af98c955.svg",
+    "static/media/closeOutline.svg": "/homework-with-autotest/static/media/closeOutline.b64ba402fac8a549bc2de97e9cf84a61.svg",
     "static/media/checked.svg": "/homework-with-autotest/static/media/checked.b75ca55e8759862b4083.svg",
     "index.html": "/homework-with-autotest/index.html",
-    "main.41736c1c.css.map": "/homework-with-autotest/static/css/main.41736c1c.css.map",
-    "main.f90d74fc.js.map": "/homework-with-autotest/static/js/main.f90d74fc.js.map",
+    "static/media/burger.svg": "/homework-with-autotest/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
+    "main.a62feda8.css.map": "/homework-with-autotest/static/css/main.a62feda8.css.map",
+    "main.2cfc64fb.js.map": "/homework-with-autotest/static/js/main.2cfc64fb.js.map",
     "787.66cb4309.chunk.js.map": "/homework-with-autotest/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.41736c1c.css",
-    "static/js/main.f90d74fc.js"
+    "static/css/main.a62feda8.css",
+    "static/js/main.2cfc64fb.js"
   ]
 }
