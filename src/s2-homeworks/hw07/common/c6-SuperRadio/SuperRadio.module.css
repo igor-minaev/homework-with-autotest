@@ -1,20 +1,38 @@
 .radio {
-    margin-right: 11px;
+    appearance: none;
+    font: inherit;
+    color: currentColor;
+    width: 20px;
     height: 20px;
+    border: 0.15em solid currentColor;
+    border-radius: 50%;
+    margin-right: 13px;
+    display: grid;
+    place-content: center;
+    cursor: pointer;
 }
 
 .radio::before {
+    content: "";
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    transform: scale(0);
+    transition: 120ms transform ease-in-out;
+    box-shadow: inset 1em 1em black;
 }
 
 
 .radio:checked::before {
+    transform: scale(1);
 }
 
 .label {
     display: flex;
-    height: 20px;
+    height: 24px;
     align-items: center;
     cursor: pointer;
+    margin-bottom: 18px;
 }
 
 .options {
@@ -23,6 +41,6 @@
 }
 
 .span{
-    display: flex;
-    align-items: center;
+    transform: translateY(-0.075em);
 }
+
